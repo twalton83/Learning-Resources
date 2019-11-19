@@ -18,3 +18,9 @@ Random learning resources I'd like to save.
 [Official Liquid Docs on Shopify](https://help.shopify.com/en/themes/liquid)
 
 [Official Liquid Docs](https://shopify.github.io/liquid/)
+
+## Command Line
+
+[Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+
+
