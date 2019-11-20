@@ -7,6 +7,7 @@ Random learning resources I'd like to save.
 
 ## CSS (And Design)
 [Color Theory](https://www.youtube.com/watch?v=8xjR7QXQKJ0)
+
 [CSSReference.io](https://cssreference.io/)
 
 Comes with plenty of visual examples. 
