@@ -1,8 +1,9 @@
 # Learning-Resources
 Random learning resources I'd like to save.
 
+## Command Line
 
-## HTML
+[Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
 
 ## CSS (And Design)
@@ -14,8 +15,14 @@ Comes with plenty of visual examples.
 
 [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
+
+## HTML
+
+
+
 ## Javascript
 [Eloquent Javascript](https://eloquentjavascript.net/)
+
 
 ## Liquid
 
@@ -25,9 +32,11 @@ Comes with plenty of visual examples.
 
 [Official Liquid Docs](https://shopify.github.io/liquid/)
 
-## Command Line
 
-[Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+## Python
+
+[Automate The Boring Stuff with Python - Book](https://automatetheboringstuff.com/chapter0/)
+
 
 ## Sketch
 [Official Docs](https://www.sketch.com/docs/)
