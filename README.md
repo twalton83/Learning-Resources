@@ -17,6 +17,8 @@ Comes with plenty of visual examples.
 
 
 ## HTML
+[MDN HTML5 Docs](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
 
 
 
