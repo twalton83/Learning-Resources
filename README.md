@@ -1,5 +1,5 @@
-# Learning-Resources
-Random learning resources I'd like to save.
+# Learning Resources
+Random learning resources and tools I'd like to save.
 
 ## Command Line
 
@@ -33,6 +33,11 @@ Comes with plenty of visual examples.
 [Official Liquid Docs on Shopify](https://help.shopify.com/en/themes/liquid)
 
 [Official Liquid Docs](https://shopify.github.io/liquid/)
+
+## Online Tools
+[repl.it](https://repl.it/languages)
+
+An online IDE. Includes Python, Bash, etc. Like CodePen. 
 
 
 ## Python
