@@ -43,6 +43,7 @@ An online IDE. Includes Python, Bash, etc. Like CodePen.
 ## Python
 
 [Automate The Boring Stuff with Python - Book](https://automatetheboringstuff.com/chapter0/)
+[Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 
 ## Sketch
