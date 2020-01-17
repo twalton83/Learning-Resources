@@ -36,6 +36,8 @@ Comes with plenty of visual examples.
 
 [Official Liquid Docs](https://shopify.github.io/liquid/)
 
+[Creating Shopify Themes](https://help.shopify.com/en/themes/development)
+
 ## Online Tools
 [repl.it](https://repl.it/languages)
 
