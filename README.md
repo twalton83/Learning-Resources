@@ -27,6 +27,10 @@ Comes with plenty of visual examples.
 ## Javascript
 [Eloquent Javascript](https://eloquentjavascript.net/)
 
+[javascript.info](javascript.info)
+
+Lots of examples and sandboxes with simple wording. 
+
 
 ## Liquid
 
