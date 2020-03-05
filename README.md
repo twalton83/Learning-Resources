@@ -7,6 +7,11 @@ Random learning resources and tools I'd like to save.
 
 
 ## CSS (And Design)
+
+[Color Naming Tool](https://www.color-blindness.com/color-name-hue/)
+
+Useful for naming Sass/CSS color variables.
+
 [Color Theory](https://www.youtube.com/watch?v=8xjR7QXQKJ0)
 
 [CSSReference.io](https://cssreference.io/)
@@ -14,6 +19,9 @@ Random learning resources and tools I'd like to save.
 Comes with plenty of visual examples. 
 
 [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
+
+[CSS Tricks](https://css-tricks.com/)
+Articles, guides, snippets. 
 
 
 ## HTML
@@ -30,6 +38,8 @@ Comes with plenty of visual examples.
 [javascript.info](javascript.info)
 
 Lots of examples and sandboxes with simple wording. 
+
+[MDN JS Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## Liquid
