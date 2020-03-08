@@ -29,6 +29,8 @@ Articles, guides, snippets.
 
 [HTMLReference.io](https://htmlreference.io/)
 
+[Emmet Cheat Sheet (HTML/CSS VSCode Shortcuts)](https://docs.emmet.io/cheat-sheet/)
+
 
 
 
