@@ -12,21 +12,21 @@ Random learning resources and tools I'd like to save.
 
 Useful for naming Sass/CSS color variables.
 
--
+=========
 
 [Color Theory](https://www.youtube.com/watch?v=8xjR7QXQKJ0)
 
--
+=========
 
 [CSSReference.io](https://cssreference.io/)
 
 Comes with plenty of visual examples. 
 
--
+=========
 
 [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)
 
--
+=========
 
 [CSS Tricks](https://css-tricks.com/)
 Articles, guides, snippets. 
@@ -35,11 +35,11 @@ Articles, guides, snippets.
 ## HTML
 [MDN HTML5 Docs](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
--
+=========
 
 [HTMLReference.io](https://htmlreference.io/)
 
--
+=========
 
 [Emmet Cheat Sheet (HTML/CSS VSCode Shortcuts)](https://docs.emmet.io/cheat-sheet/)
 
@@ -47,13 +47,13 @@ Articles, guides, snippets.
 ## Javascript
 [Eloquent Javascript](https://eloquentjavascript.net/)
 
--
+=========
 
 [javascript.info](javascript.info)
 
 Lots of examples and sandboxes with simple wording. 
 
--
+=========
 
 [MDN JS Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -62,19 +62,19 @@ Lots of examples and sandboxes with simple wording.
 
 [Liquid Cheat Sheet](http://cheat.markdunkley.com/)
 
--
+=========
 
 [Official Liquid Docs on Shopify](https://help.shopify.com/en/themes/liquid)
 
--
+=========
 
 [Official Liquid Docs](https://shopify.github.io/liquid/)
 
--
+=========
 
 [Creating Shopify Themes](https://help.shopify.com/en/themes/development)
 
--
+=========
 
 ## Online Tools
 [repl.it](https://repl.it/languages)
@@ -86,7 +86,7 @@ An online IDE. Includes Python, Bash, etc. Like CodePen.
 
 [Automate The Boring Stuff with Python - Book](https://automatetheboringstuff.com/chapter0/)
 
--
+=========
 
 [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
