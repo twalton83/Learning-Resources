@@ -31,6 +31,13 @@ Comes with plenty of visual examples.
 [CSS Tricks](https://css-tricks.com/)
 Articles, guides, snippets. 
 
+=========
+[7 Practical Tips for UI Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+
+=========
+
+
+
 
 ## HTML
 [MDN HTML5 Docs](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
